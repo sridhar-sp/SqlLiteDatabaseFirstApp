@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SqlFirstApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="display_content">Display Content</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_phone">Enter Your Phone No</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="sex">Sex</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="id">ID</string>
+    <string name="enter_the_id">Enter Your ID to Update</string>
+    <string name="title_activity_delete">DeleteActivity</string>
+    <string name="enter_your_id">Enter Your ID</string>
+    <string name="sridhar">sridhar</string>
+    <string name="num">9791100000</string>
+
+</resources>
